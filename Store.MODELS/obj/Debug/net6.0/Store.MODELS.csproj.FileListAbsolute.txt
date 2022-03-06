@@ -1,0 +1,24 @@
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\bin\Debug\net6.0\Store.MODELS.deps.json
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\bin\Debug\net6.0\Store.MODELS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\bin\Debug\net6.0\ref\Store.MODELS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\bin\Debug\net6.0\Store.MODELS.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.csproj.AssemblyReference.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.AssemblyInfoInputs.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.AssemblyInfo.cs
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\obj\Debug\net6.0\ref\Store.MODELS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\bin\Debug\net6.0\Store.MODELS.deps.json
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\bin\Debug\net6.0\Store.MODELS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\bin\Debug\net6.0\Store.MODELS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.csproj.AssemblyReference.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.AssemblyInfoInputs.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.AssemblyInfo.cs
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\obj\Debug\net6.0\refint\Store.MODELS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\obj\Debug\net6.0\Store.MODELS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.MODELS\obj\Debug\net6.0\ref\Store.MODELS.dll

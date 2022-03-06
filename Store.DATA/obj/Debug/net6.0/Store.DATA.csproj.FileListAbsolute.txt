@@ -1,0 +1,34 @@
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\bin\Debug\net6.0\Store.DATA.deps.json
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\bin\Debug\net6.0\Store.DATA.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\bin\Debug\net6.0\ref\Store.DATA.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\bin\Debug\net6.0\Store.DATA.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\bin\Debug\net6.0\Store.CORE.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\bin\Debug\net6.0\Store.MODELS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\bin\Debug\net6.0\Store.CORE.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\bin\Debug\net6.0\Store.MODELS.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.csproj.AssemblyReference.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.AssemblyInfoInputs.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.AssemblyInfo.cs
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.csproj.CoreCompileInputs.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.csproj.CopyComplete
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\obj\Debug\net6.0\ref\Store.DATA.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\bin\Debug\net6.0\Store.DATA.deps.json
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\bin\Debug\net6.0\Store.DATA.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\bin\Debug\net6.0\Store.DATA.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\bin\Debug\net6.0\Store.CORE.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\bin\Debug\net6.0\Store.MODELS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\bin\Debug\net6.0\Store.CORE.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\bin\Debug\net6.0\Store.MODELS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.csproj.AssemblyReference.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.AssemblyInfoInputs.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.AssemblyInfo.cs
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.csproj.CopyComplete
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\refint\Store.DATA.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\Store.DATA.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.DATA\obj\Debug\net6.0\ref\Store.DATA.dll

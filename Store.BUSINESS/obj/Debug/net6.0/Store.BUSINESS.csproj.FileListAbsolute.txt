@@ -1,0 +1,38 @@
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\Store.BUSINESS.deps.json
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\Store.BUSINESS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\ref\Store.BUSINESS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\Store.BUSINESS.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\Store.CORE.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\Store.DATA.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\Store.MODELS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\Store.DATA.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\Store.CORE.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\bin\Debug\net6.0\Store.MODELS.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.AssemblyInfo.cs
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.csproj.CopyComplete
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\obj\Debug\net6.0\ref\Store.BUSINESS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\bin\Debug\net6.0\Store.BUSINESS.deps.json
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\bin\Debug\net6.0\Store.BUSINESS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\bin\Debug\net6.0\Store.BUSINESS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\bin\Debug\net6.0\Store.CORE.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\bin\Debug\net6.0\Store.DATA.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\bin\Debug\net6.0\Store.MODELS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\bin\Debug\net6.0\Store.DATA.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\bin\Debug\net6.0\Store.CORE.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\bin\Debug\net6.0\Store.MODELS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.AssemblyInfo.cs
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.csproj.CopyComplete
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\refint\Store.BUSINESS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\Store.BUSINESS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.BUSINESS\obj\Debug\net6.0\ref\Store.BUSINESS.dll

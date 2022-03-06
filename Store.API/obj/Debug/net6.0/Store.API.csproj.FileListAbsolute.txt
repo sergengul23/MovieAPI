@@ -1,0 +1,154 @@
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\appsettings.json
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.API.exe
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.API.deps.json
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.API.runtimeconfig.json
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.API.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\ref\Store.API.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.API.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.BUSINESS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.CORE.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.DATA.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.MODELS.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.BUSINESS.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.CORE.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.DATA.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\bin\Debug\net6.0\Store.MODELS.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.csproj.AssemblyReference.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfoInputs.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfo.cs
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.csproj.CoreCompileInputs.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\scopedcss\bundle\Store.API.styles.css
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.csproj.CopyComplete
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\ref\Store.API.dll
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.pdb
+C:\Users\sergen.gul\Desktop\CQRS\Store\Store.API\obj\Debug\net6.0\Store.API.genruntimeconfig.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.API.exe
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.API.deps.json
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.API.runtimeconfig.json
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.API.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.API.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.BUSINESS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.CORE.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.DATA.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.MODELS.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.BUSINESS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.CORE.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.DATA.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.API\bin\Debug\net6.0\Store.MODELS.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.csproj.AssemblyReference.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfoInputs.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfo.cs
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.csproj.CoreCompileInputs.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\scopedcss\bundle\Store.API.styles.css
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.csproj.CopyComplete
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\refint\Store.API.dll
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.pdb
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\Store.API.genruntimeconfig.cache
+C:\Users\Sergen Gül\Desktop\Store\Store.API\obj\Debug\net6.0\ref\Store.API.dll
